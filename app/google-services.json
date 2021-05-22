@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562701233736",
+    "project_id": "kawani-application",
+    "storage_bucket": "kawani-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562701233736:android:ca424a9ca2211d5f58f27d",
+        "android_client_info": {
+          "package_name": "com.project.kawani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562701233736-f432otif32cqdgr98skmjclgnscfrovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_TdE3mXgNpbUGFjA6TjIEKGsWpBgJ3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562701233736-f432otif32cqdgr98skmjclgnscfrovf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
